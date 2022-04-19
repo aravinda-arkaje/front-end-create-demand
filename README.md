@@ -1,1 +1,2 @@
-# front-end-create-demand
+npm install
+npm start
