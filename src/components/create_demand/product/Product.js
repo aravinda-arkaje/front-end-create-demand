@@ -138,6 +138,7 @@ export default function Product(props) {
 
     return (
         <div>
+            {/* dediwed */}
             <ProductTabSearchBar>
                 <ProductTabSearchBarHead>I’m looking for...</ProductTabSearchBarHead>
                 <BorderBottom></BorderBottom>
