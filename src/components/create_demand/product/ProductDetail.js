@@ -64,7 +64,6 @@ export default function ProductDetail(props) {
 
     return (
         <div>
-            {/* Product Details */}
             {props.selectedProduct ?
             <Product>
                 <ProductDetailHead>Product Details</ProductDetailHead>
