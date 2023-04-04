@@ -12,6 +12,7 @@ export default function DemanTabView(props) {
 
     return (
         <div>
+            {/* Demand Tab Views */}
             <Tabs defaultActiveKey="1" onChange={callback}>
                 <TabPane tab="1 Product" key="1">
                     <Product {...props} />

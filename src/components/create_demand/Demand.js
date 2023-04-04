@@ -30,7 +30,7 @@ export default function Demand(props) {
 
     return (
         <div className='container-fluid'>
-            {/* huwriu4fuiu43 */}
+            {/* Demand */}
             <MainPadding>
                 <div className='row'>
                     <div className={selectedProduct ? 'col-xl-1 col-lg-1 col-12': 'col-xl-1 col-lg-1 col-12'}></div>
