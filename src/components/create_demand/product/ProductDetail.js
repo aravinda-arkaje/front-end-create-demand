@@ -70,6 +70,7 @@ export default function ProductDetail(props) {
                 <BorderBottom></BorderBottom>
                 <ProductCompleteDetail> 
                       {/* product */}
+                      {/* ewfiuwegfwefvywegfwe */}
                     <div className='col-12'>
                         <ProductTitle>{props.selectedProduct.productName}</ProductTitle>
                         <ProductTagList>
